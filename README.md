@@ -1,6 +1,6 @@
-# Getting Started with the [onboardbase](onboardbase.com) Vuejs starter
+# Getting Started with the [onboardbase](onboardbase.com) Vuejs starterkit
 
-This starterkit was bootstrapped with [Create-vuetps://github.com/vuejs/create-vue).
+This starterkit was bootstrapped with [Create-vue](https://github.com/vuejs/create-vue).
 
 
 ### Note
