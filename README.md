@@ -29,8 +29,6 @@ This commands runs both `onboardbase login` and `onboardbase setup` at a go to m
 
 ### `npm run dev`
 
-Runs the app in the development mode.\
+Runs the app in the development mode, The page will reload when you make changes.
 
-The page will reload when you make changes.\
-
-with all this set you can go on with your development process.
+With all this set you can go on with your development process.
