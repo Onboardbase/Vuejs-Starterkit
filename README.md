@@ -1,4 +1,4 @@
-# Getting Started with the [onboardbase](onboardbase.com) Vuejs starterkit
+# Getting Started with the [Onboardbase](onboardbase.com) Vuejs starterkit
 
 This starterkit was bootstrapped with [Create-vue](https://github.com/vuejs/create-vue).
 
@@ -29,6 +29,4 @@ This commands runs both `onboardbase login` and `onboardbase setup` at a go to m
 
 ### `npm run dev`
 
-Runs the app in the development mode, The page will reload when you make changes.
-
-With all this set you can go on with your development process.
+Runs the app in the development mode, the page will reload when you make changes. With everything fully setup, you can continue with development.
